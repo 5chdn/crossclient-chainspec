@@ -12,7 +12,7 @@ Templated and stripped from the inital ropsten chain spec for both clients.
 Geth:
 
      $ geth init --datadir ~/.ethereum/crossclient geth.json
-     $ geth --datadir ~/.ethereum/crossclient --network-id 1337 --port 31333 --rpcport 8538
+     $ geth --datadir ~/.ethereum/crossclient --networkid 1337 --port 31333 --rpcport 8538
 
 Parity:
 
